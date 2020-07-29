@@ -1,0 +1,45 @@
+/* add your CSS here */
+body {
+    margin: 0px;
+    padding: 0PX;
+    display: flex;justify-content: center;flex-direction: column; width: 100%; margin: 10% 0; min-height: 200px; align-items: center;
+}
+
+.main {
+    border: 0.5px;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px #C0C0C0
+    
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 300px;
+}
+
+.container {
+    width: 280px;
+    padding: 10px 10px;
+    border: 0.5px solid #C0C0C0;
+}
+
+.container > p {
+    margin: 0px;
+}
+#fact {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+span {
+    font-weight: bold;
+}
